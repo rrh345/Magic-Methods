@@ -1,0 +1,5 @@
+Astronaut
+--------
++ name: string
++ status: string
++ space flight (hr): int
